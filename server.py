@@ -7,7 +7,7 @@ from decoder import Decoder
 
 # Global Variables
 host = '0.0.0.0'
-port = 5555
+port = 8080
 
 
 class ClientThread(Thread):
